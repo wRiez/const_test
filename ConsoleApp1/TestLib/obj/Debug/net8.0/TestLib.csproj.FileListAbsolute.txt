@@ -1,0 +1,11 @@
+D:\projects\ConsoleApp1\TestLib\bin\Debug\net8.0\TestLib.deps.json
+D:\projects\ConsoleApp1\TestLib\bin\Debug\net8.0\TestLib.dll
+D:\projects\ConsoleApp1\TestLib\bin\Debug\net8.0\TestLib.pdb
+D:\projects\ConsoleApp1\TestLib\obj\Debug\net8.0\TestLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\ConsoleApp1\TestLib\obj\Debug\net8.0\TestLib.AssemblyInfoInputs.cache
+D:\projects\ConsoleApp1\TestLib\obj\Debug\net8.0\TestLib.AssemblyInfo.cs
+D:\projects\ConsoleApp1\TestLib\obj\Debug\net8.0\TestLib.csproj.CoreCompileInputs.cache
+D:\projects\ConsoleApp1\TestLib\obj\Debug\net8.0\TestLib.dll
+D:\projects\ConsoleApp1\TestLib\obj\Debug\net8.0\refint\TestLib.dll
+D:\projects\ConsoleApp1\TestLib\obj\Debug\net8.0\TestLib.pdb
+D:\projects\ConsoleApp1\TestLib\obj\Debug\net8.0\ref\TestLib.dll
